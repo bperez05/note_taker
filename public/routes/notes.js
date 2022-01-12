@@ -45,14 +45,14 @@ notes.delete('/_id', (req, res) => {
 tips.post('/', (req, res) => {
   console.log(req.body);
 
-  const { username, topic, tip } = req.body;
+  const { title, text } = req.body;
 
   if (req.body) {
-    const newTip = {
+    const newnote = {
       username,
-      tip,
-      topic,
-      tip_id: uuidv4(),
+      title,
+      text,
+      id: uuidv4(),
     };
 
     readAndAppend(newnote, './db/db.json');
@@ -62,4 +62,4 @@ tips.post('/', (req, res) => {
   }
 });
 
-module.exports = tips;
+module.exports = notes;
