@@ -29,7 +29,7 @@ app.get('/notes', (req, res) =>
 
 // Wildcard route to direct to homepage
 app.get('*', (req, res) =>
-  res.sendFile(path.join(__dirname, 'public/index.html'))
+  res.sendFile(path.join(__dirname, '/public/index.html'))
 );
 
 
