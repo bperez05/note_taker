@@ -39,7 +39,7 @@ notes.post('/notes', (req, res) => {
 });
 
 // DELETE Route to allow user to user to delete notes entered 
-notes.delete('/:id', (req,res) => {
+notes.delete('/notes', (req,res) => {
   const noteId = this.req.params.id;
   readFromFile('../db/db.json')
   .then((data)=> console.log(data))
