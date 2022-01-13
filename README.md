@@ -38,13 +38,12 @@ The Note taker allows the user to  save notes that user wishes to reference back
 
 ### Demo 🎥
 
-* [Link to Demo]()
+* [Link to Demo](https://watch.screencastify.com/v/3hxW3eRt3FZOsyBboMsC)
 
 ### GitHub & Heroku Link
 
 * [GitHub Link](https://github.com/bperez05/note_taker.git)
-* [Deploy Link]()
-* [Heroku Link]()
+* [Heroku Link](https://git.heroku.com/notetaker05.git)
 
 ## Contributers
 * Brandon Perez

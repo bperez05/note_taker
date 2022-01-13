@@ -1,27 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": "01"
-    },
-    {
-        "title": "Test 2",
-        "text": "Hello World!",
-        "ID": null
-    },
-    {
-        "title": "Test3",
-        "text": "Hello!",
-        "ID": 1
-    },
-    {
-        "title": "note test",
-        "text": "hello",
-        "id": "0aef1ebb-cd69-4c62-81c7-21b66749e69c"
-    },
-    {
         "title": "Brandon Perez",
         "text": "My name is brandon",
         "id": "9aa433da-51b3-41a7-afd5-13ff63f9338a"
+    },
+    {
+        "title": "Brandon test note",
+        "text": "testing note taker app",
+        "id": "e053442b-ba20-4a46-943b-fd0ba2292a81"
+    },
+    {
+        "title": "note",
+        "text": "note",
+        "id": "84286486-82af-4a5e-bc0f-c9cffddd3080"
     }
 ]
