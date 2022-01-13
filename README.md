@@ -28,7 +28,7 @@ User will need to the run the following commands:
   npm start
 ```
 
-<img width="1018" alt="Screen Shot" src="">
+<img width="1018" alt="Screen Shot" src="https://github.com/bperez05/note_taker/blob/d05de6cdc553db9e94492ab1248707c72d56aae1/noteTaker_sc.png">
 
 User will then click on http://localhost:3001, which will redirect the user to the browser and display the landing webpage.
 
